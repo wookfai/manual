@@ -1,4 +1,4 @@
-Symphony Project Management Documentation (ver 3)
+eTQM Project Management Documentation (ver 3)
 =========================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

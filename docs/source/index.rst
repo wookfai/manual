@@ -1,4 +1,4 @@
-Symphony Project Management Documentation (ver 2a)
+Symphony Project Management Documentation (ver 3)
 =========================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

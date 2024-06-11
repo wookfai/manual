@@ -1,7 +1,7 @@
 Symphony Project Management Documentation
 =========================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+Lumache hosts its documentation on Read the Docs.
+**Lumache** (/lu'make/) is a Python library for cooks and food and python lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.

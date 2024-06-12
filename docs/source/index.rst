@@ -11,7 +11,9 @@ how to :ref:`installation` the project.
 
 select My Projects
 under Overview , press Build version
+on top, press View Doc
 
+Import A Project - for new project
 
 
 .. note::

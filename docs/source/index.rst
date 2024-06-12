@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
- -  TAKE ACTION
- -  MOVEMENT
+   api
+   usage

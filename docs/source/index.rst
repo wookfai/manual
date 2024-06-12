@@ -9,6 +9,11 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+select My Projects
+under Overview , press Build version
+
+
+
 .. note::
 
    This project is under active development.

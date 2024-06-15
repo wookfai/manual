@@ -6,7 +6,7 @@ The eInvoice module is a robust solution designed to streamline your electronic 
 
 .. rubric:: Document Submission to LHDN MyInvois System
 
-### 
+
 The eInvoice module handles the submission of the following documents to the LHDN MyInvois System:
 
 - Invoice

@@ -15,6 +15,7 @@ Welcome to Accounting Software's documentation!
    features_overview
 
    modules/accounting/index
+   modules/einvoice/index
    modules/purchasing/index
    modules/inventory/index
 

@@ -18,6 +18,7 @@ Welcome to Accounting Software's documentation!
    modules/einvoice/index
    modules/purchasing/index
    modules/inventory/index
+   modules/projects/index
 
    troubleshooting
    faq

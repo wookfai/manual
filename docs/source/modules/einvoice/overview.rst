@@ -3,6 +3,16 @@ Overview of eInvoice Module
 
 The eInvoice module provides a comprehensive solution for electronic invoicing. It allows you to create, send, and manage invoices electronically, ensuring compliance with regulatory standards and improving efficiency in your billing processes.
 
+Documents handled include:
+Invoice
+Debit Note
+Credit Note
+Refund Note
+Self-Billed Invoice
+Self-Billed Debit Note
+Self-Billed Credit Note
+Self-Billed Refund Note
+
 Features include:
 
 **Easy creation and customization of electronic invoices**

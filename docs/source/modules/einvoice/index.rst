@@ -1,9 +1,12 @@
 eInvoice Module
-=================
+===============
 
 .. toctree::
    :maxdepth: 2
 
    overview
-   transactions
+   setup
+   creating_invoices
+   managing_invoices
    reports
+

@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Symphony eTQM Software's documentation!
+Welcome to Accounting Software's documentation!
 ===============================================
 
 .. toctree::
@@ -11,10 +11,13 @@ Symphony eTQM Software's documentation!
    :caption: Table of Contents
 
    introduction
-   installation
    getting_started
    features_overview
-   detailed_functionality
+
+   modules/accounting/index
+   modules/purchasing/index
+   modules/inventory/index
+
    troubleshooting
    faq
    appendices

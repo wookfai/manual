@@ -1,29 +1,27 @@
-eTQM Project Management Documentation (ver 3)
-=========================================
+.. Accounting Software Documentation master file, created by
+   sphinx-quickstart on Thu Jun 15 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-select My Projects
-under Overview , press Build version
-on top, press View Doc
-
-Import A Project - for new project
-
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Welcome to Accounting Software's documentation!
+===============================================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
 
-   api
-   usage
+   introduction
+   installation
+   getting_started
+   features_overview
+   detailed_functionality
+   troubleshooting
+   faq
+   appendices
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

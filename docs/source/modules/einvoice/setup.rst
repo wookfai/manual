@@ -77,3 +77,47 @@ By following these steps, you will ensure that the eInvoice module is properly s
    :align: center
    :scale: 75%
 
+3. **Currency :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Currency` 
+   - Entry the list of currency and map it to the eInvoice code.
+
+.. figure:: images/currency.jpg
+   :alt: Currency Setup
+   :align: center
+   :scale: 75%
+
+4. **Unit of Measurement :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Unit of Measurement` 
+   - Entry the list of UOM information and map it to the eInvoice code.
+
+.. figure:: images/uom.jpg
+   :alt: Country Setup
+   :align: center
+   :scale: 75%
+
+5. **Tax Type :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Tax List` 
+   - Entry the list of Tax List and map it to the eInvoice code.
+
+.. figure:: images/country.jpg
+   :alt: Country Setup
+   :align: center
+   :scale: 75%
+
+6. **Payment Mode :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Payment Terms` 
+   - Entry the list of payment mode information and map it to the eInvoice code.
+
+.. figure:: images/country.jpg
+   :alt: Country Setup
+   :align: center
+   :scale: 75%
+
+7. **Classification Code :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Country & State` 
+   - Entry the list of State information and map it to the eInvoice code.
+
+.. figure:: images/country.jpg
+   :alt: Country Setup
+   :align: center
+   :scale: 75%

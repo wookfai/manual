@@ -7,7 +7,7 @@ Welcome Symphony eTQM Software's documentation!
 ===============================================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    :caption: Table of Contents
 
    introduction

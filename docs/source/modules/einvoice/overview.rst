@@ -4,6 +4,18 @@ Overview of eInvoice Module
 The eInvoice module is a robust solution designed to streamline your electronic invoicing processes. This module facilitates the creation, transmission, and management of invoices electronically, ensuring compliance with regulatory standards and enhancing the efficiency of your billing operations.
 
 
+This is the workflow of eInvoice module.
+
+.. figure:: images/workflow.jpg
+   :alt: Work Flow eInvoice
+   :align: center
+   :scale: 75%
+
+   Workflow with integration with LHDN API eInvoice portal.
+
+
+
+
 .. rubric:: Document Submission to LHDN MyInvois System
 
 

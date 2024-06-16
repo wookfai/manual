@@ -57,3 +57,23 @@ Each of these codes needs to be mapped to the corresponding LHDN eInvoice codes 
    Example of the Master Files setup screen, showing how to configure country, state, unit of measurement, tax code, and currency.
 
 By following these steps, you will ensure that the eInvoice module is properly set up, allowing you to efficiently manage your electronic invoicing processes.
+
+
+1. **Country :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Country & State` 
+   - Entry the list of Country information and map it to the eInvoice code.
+
+.. figure:: images/country.jpg
+   :alt: Country Setup
+   :align: center
+   :scale: 75%
+
+2. **State :**
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`Master Files` >> :guilabel:`Country & State` 
+   - Entry the list of State information and map it to the eInvoice code.
+
+.. figure:: images/country.jpg
+   :alt: Country Setup
+   :align: center
+   :scale: 75%
+

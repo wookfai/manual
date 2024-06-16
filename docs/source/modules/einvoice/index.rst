@@ -6,8 +6,6 @@ eInvoice Module
 
    overview
    setup
-   submitdocuments
    submitdocuments/index
-
    reports
 

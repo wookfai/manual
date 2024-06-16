@@ -22,3 +22,19 @@ Creating an electronic invoice in the eInvoice module is simple and straightforw
    - Click "Send" to transmit the invoice electronically to the customer.
 
 The eInvoice module ensures that your invoices are compliant with electronic invoicing standards and are delivered securely.
+
+
+
+.. figure:: images/billingdetails.jpg
+   :alt: Work Flow eInvoice
+   :align: center
+   :scale: 75%
+
+   Workflow with integration with LHDN API eInvoice portal.
+
+
+.. note::
+
+   Take note of the additional field **Product Classification**,
+   which is mapped to LHDN code.
+

@@ -2,7 +2,7 @@ eInvoice Module
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    overview
    setup

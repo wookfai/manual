@@ -30,7 +30,7 @@ Begin by entering the required information in the License Setup form. Ensure tha
 
 This information is crucial for the proper configuration of the eInvoice module.
 
-.. figure:: images/license_setup_form.png
+.. figure:: images/licensesetup.png
    :alt: License Setup Form
    :align: center
    :scale: 75%

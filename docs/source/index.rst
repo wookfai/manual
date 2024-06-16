@@ -16,7 +16,6 @@ Welcome Symphony eTQM Software's documentation!
 
    modules/accounting/index
    modules/einvoice/index
-   modules/einvoice/submitdocuments/index
    modules/purchasing/index
    modules/inventory/index
    modules/projects/index

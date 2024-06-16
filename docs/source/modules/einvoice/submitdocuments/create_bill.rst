@@ -38,3 +38,10 @@ The eInvoice module ensures that your invoices are compliant with electronic inv
    Take note of the additional field **Product Classification**,
    which is mapped to LHDN code.
 
+
+For foreign company, fill in the Annexture.
+
+.. figure:: images/billing_annexure.jpg
+   :alt: Work Flow eInvoice
+   :align: center
+   :scale: 75%

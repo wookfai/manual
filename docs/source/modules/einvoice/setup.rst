@@ -4,7 +4,7 @@ Setting Up the eInvoice Module
 To set up the eInvoice module, follow these steps:
 
 1. **Configuration:**
-   - Navigate to the eInvoice settings in the software.
+   - Select :guilabel:`Settings` , on the top right corner >> :guilabel:`License Set Up`
    - Configure your company details, tax information, and invoice templates.
 
 2. **Integration:**

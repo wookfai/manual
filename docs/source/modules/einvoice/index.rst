@@ -6,6 +6,6 @@ eInvoice Module
 
    overview
    setup
-   submitdocuments/meno
+   submitdocuments/index
    report
 

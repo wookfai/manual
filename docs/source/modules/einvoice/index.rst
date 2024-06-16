@@ -6,7 +6,6 @@ eInvoice Module
 
    overview
    setup
-   creating_invoices
-   managing_invoices
+   submitdocuments/index
    reports
 

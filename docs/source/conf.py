@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Symphony eTQM'
+copyright = '2024, BusinessQuest.com Sdn Bhd'
+author = 'bizquest'
 
 release = '0.1'
 version = '0.1.0'

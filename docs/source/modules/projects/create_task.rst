@@ -18,7 +18,7 @@ Go to the **Task Log** Tab where all tasks are listed.
 ------------------------------------------------------------------------
 Locate the task you want to add a sub-task to. Click on the **"Add SubTask"** button found next to the Action Button of the selected task.
 
-.. image:: add_subtask.png
+.. image:: images/add_subtask.jpg
    :alt: Adding SubTask
    :align: center
 

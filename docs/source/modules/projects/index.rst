@@ -5,9 +5,12 @@ Project Module
    :maxdepth: 2
 
    overview
-   create_project
    master_setup
+   create_project
+   project_plan
    create_task
+   update_task
+   
    run_schedule
-   submitdocuments/index
+   
    report

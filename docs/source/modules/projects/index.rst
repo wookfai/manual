@@ -7,8 +7,9 @@ Project Module
    overview
    master_setup
    create_project
-   project_plan
    create_task
+   recurring_task
+   project_plan
    update_task
    
    run_schedule

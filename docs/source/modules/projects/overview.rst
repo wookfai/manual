@@ -1,6 +1,10 @@
 Overview of the Project Module in a Software System
 ===================================================
 
+.. image:: images/workflow.jpg
+   :alt: Overall Workflow
+   :align: center
+
 The project module of a software system is a crucial component designed to facilitate the efficient management of various aspects of a project from inception to completion. It encompasses a wide range of functionalities that support project planning, execution, monitoring, and closure. The primary objective of this module is to streamline project workflows, enhance collaboration, ensure timely delivery, and optimize resource utilization. Below is an in-depth overview of the core features and benefits of the project module in a software system.
 
 Core Features

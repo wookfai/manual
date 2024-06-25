@@ -1,6 +1,6 @@
 Create Client
 ==========
 
-.. image:: create_client.jpg
+.. image:: images/create_client.jpg
    :alt: Create Client
    :align: center

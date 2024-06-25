@@ -16,6 +16,10 @@ In the Project Management section, find and click on the **"Create New"** button
 ------------------------------------------------
 A popup page will appear, prompting you to fill in the project details. This form includes various fields that need to be completed to define the project.
 
+.. image:: images/create_project.jpg
+   :alt: Create Project
+   :align: center
+
 4. Enter the mandatory fields
 -----------------------------
 Ensure that all mandatory fields marked in red are entered. These fields are essential for the successful creation of the project.

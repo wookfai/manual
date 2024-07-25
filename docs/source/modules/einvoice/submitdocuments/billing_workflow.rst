@@ -20,6 +20,15 @@ Basically, when a user creates a billing it will be checked by the Symphony prio
 Creating the Sales Invoice
 --------------------------------
 
+#. `Sign in to Symphony <http://symphony.metqm.com:8600/symphony>`_ and navigate to the `tutorial GitHub template <https://github.com/readthedocs/tutorial-template/>`_.
+
 #. Create the Sales Invoice as usual. 
 
-#. `Sign in to Symphony <http://symphony.metqm.com:8600/symphony>`_ and navigate to the `tutorial GitHub template <https://github.com/readthedocs/tutorial-template/>`_.
+.. note::
+
+   Special attention to :
+   1. Ensure the customer details are inorder.
+   2. Document Date, must be no more than three days before today and no later than yesterday.
+
+
+

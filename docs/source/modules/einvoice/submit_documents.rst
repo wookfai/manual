@@ -7,15 +7,20 @@ Type of Documents
 --------------------
 Documents that need to be submitted to LHDN include the followings :
 
-*. Invoice - Invoice is a commercial document issued by Supplier to itemise and record a transaction with Buyer.
-*. Credit Note - Credit note is the document issued by Suppliers to correct errors, apply discounts, or account for returns in a previously issued e-Invoice with the purpose of reducing the value of the original e-Invoice. This is used in situations where the reduction of the original e-Invoice does not involve return of monies to the Buyer.
-*. Debit Note - Debit note is the document issued to indicate additional charges on a previously issued e-Invoice.
-*. Refund Note - Refund note is the document issued by a Supplier to confirm the refund of the Buyer’s payment. This is used in situations where there is a return of monies to the Buyer.
-*. Self-Billed Invoice - There are certain circumstances where another party (other than the Supplier) will be allowed to issue a self-billed e-Invoice. Kindly refer to Section 8 of the e-Invoice Specific Guideline where self-billed e-Invoice will be allowed.
-*. Self-Billed Invoice refers to the self-billed e-Invoice that will be issued by the Buyer for the transaction with the Supplier, based on the circumstances as specified in Section 8 of the e-Invoice Specific Guideline.
-*. Self-Billed Credit Note - Self-Billed Credit Note is issued by Buyers to correct errors, apply discounts, or account for returns in a previously issued Self-Billed e-Invoice with the purpose of reducing the value of the original Self-Billed e-Invoice. This is used in situations where the reduction of the original Self-Billed e-Invoice does not involve return of monies to the Buyer
-*. Self-Billed Debit Note - Self-Billed Debit Note is the document issued by Buyers to indicate additional charges on a previously issued Self-Billed e-Invoice.
-*. Self-Billed Refund Note - Self-Billed Refund Note is the document issued by Buyers to confirm the refund payment from the Supplier. This is used in situations where there is a return of monies from the Supplier to the Buyer.
+
+* **Owners** -- Get full access to both view and edit the Organization and all Projects
+* **Members** -- Get access to a subset of the Organization projects
+* **Teams** -- Where you give members access to a set of projects.
+
+
+* **Invoice** -- Invoice is a commercial document issued by Supplier to itemise and record a transaction with Buyer.
+* **Credit Note** -- Credit note is the document issued by Suppliers to correct errors, apply discounts, or account for returns in a previously issued e-Invoice with the purpose of reducing the value of the original e-Invoice. This is used in situations where the reduction of the original e-Invoice does not involve return of monies to the Buyer.
+* **Debit Note** -- Debit note is the document issued to indicate additional charges on a previously issued e-Invoice.
+* **Refund Note** -- Refund note is the document issued by a Supplier to confirm the refund of the Buyer’s payment. This is used in situations where there is a return of monies to the Buyer.
+* **Self-Billed Invoice** -- There are certain circumstances where another party (other than the Supplier) will be allowed to issue a self-billed e-Invoice. Self-Billed Invoice refers to the self-billed e-Invoice that will be issued by the Buyer for the transaction with the Supplier, based on the circumstances as specified in Section 8 of the e-Invoice Specific Guideline.
+* **Self-Billed Credit Note** -- Self-Billed Credit Note is issued by Buyers to correct errors, apply discounts, or account for returns in a previously issued Self-Billed e-Invoice with the purpose of reducing the value of the original Self-Billed e-Invoice. This is used in situations where the reduction of the original Self-Billed e-Invoice does not involve return of monies to the Buyer
+* **Self-Billed Debit Note** -- Self-Billed Debit Note is the document issued by Buyers to indicate additional charges on a previously issued Self-Billed e-Invoice.
+* **Self-Billed Refund Note** -- Self-Billed Refund Note is the document issued by Buyers to confirm the refund payment from the Supplier. This is used in situations where there is a return of monies from the Supplier to the Buyer.
 
 
 Submission Workflow

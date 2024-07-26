@@ -20,9 +20,9 @@ Documents that need to be submitted to LHDN include the followings :
 Submission Workflow
 --------------------------------
 
-The following diagram describes the flow of a Billing Submission between Symphony eTQM and LHDN.
+The following diagram describes the flow of a Document Submission from Symphony eTQM to LHDN Portal.
  
-Basically, when a user creates a billing it will be checked by the Symphony prior to be sent to the LHDN portal. 
+After the document created by the user is approved, it will appear in the eInvoice module. User can then push the documents over to LHDN portal which will pass thru 2 checks. The first check will happen in Symphony eTQM  prior to sending to LHDN portal. This will then follow by a second check that will happen in LHDN system.
 
 .. figure:: images/lhdn_billworkflow.jpg
    :width: 80%

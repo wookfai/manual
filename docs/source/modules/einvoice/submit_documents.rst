@@ -7,12 +7,6 @@ Type of Documents
 --------------------
 Documents that need to be submitted to LHDN include the followings :
 
-
-* **Owners** -- Get full access to both view and edit the Organization and all Projects
-* **Members** -- Get access to a subset of the Organization projects
-* **Teams** -- Where you give members access to a set of projects.
-
-
 * **Invoice** -- Invoice is a commercial document issued by Supplier to itemise and record a transaction with Buyer.
 * **Credit Note** -- Credit note is the document issued by Suppliers to correct errors, apply discounts, or account for returns in a previously issued e-Invoice with the purpose of reducing the value of the original e-Invoice. This is used in situations where the reduction of the original e-Invoice does not involve return of monies to the Buyer.
 * **Debit Note** -- Debit note is the document issued to indicate additional charges on a previously issued e-Invoice.
